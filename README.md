@@ -12,6 +12,7 @@ Improve booking and revenue strategies
 Develop a classification model to predict booking cancellations
 Analyze important factors influencing cancellations
 Provide actionable insights for hotel management
+
 📂 Dataset
 Source: Kaggle - Hotel Booking Demand Dataset
 Link: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
